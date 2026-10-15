@@ -1,4 +1,4 @@
 {
-  "signed": "{\"version\":\"0.3.1\",\"notes\":\"新增“导出手机版备份”，位于“导入识别结果”旁，包含全部账单和图片，可直接在手机版恢复。\\n启动后及使用期间自动检查更新，发现新版弹窗；可选择稍后提醒或立即更新并重启。\\n更新先校验签名和完整性，保存账单后只替换程序，保留 data。\",\"size\":7067136,\"sha256\":\"1224a89f2473520d9fe277ba710b2828b3c29795cadcb6968afc1f9f69f9a769\",\"urls\":[\"https://gitee.com/sorry123luck/alice-jewelry-updates/releases/download/v0.3.1/ALICE-JEWELRY-0.3.1-windows-x64.exe\",\"https://github.com/sorry123luck/alice-jewelry-updates/releases/download/v0.3.1/ALICE-JEWELRY-0.3.1-windows-x64.exe\"]}",
-  "signature": "U3NC/ksQXXf56NQ48QIxxkdNtTyEfPogkMXIy1bGP8PDrH8ZgijHPf38tWGDlhekm43U35CGCGU1bY4KVTHACw=="
+  "signed": "{\"version\":\"0.3.2\",\"notes\":\"修复 Windows 任务栏图标显示为系统默认图标的问题，沿用原程序图案。保留手机版备份导出与新版弹窗提醒功能。\",\"size\":7068160,\"sha256\":\"ba7d088c443e583d9be8e0549aa739accd36b1e7fb6e23c9183d1be9e3361f11\",\"urls\":[\"https://gitee.com/sorry123luck/alice-jewelry-updates/releases/download/v0.3.2/ALICE-JEWELRY-0.3.2-windows-x64.exe\",\"https://github.com/sorry123luck/alice-jewelry-updates/releases/download/v0.3.2/ALICE-JEWELRY-0.3.2-windows-x64.exe\"]}",
+  "signature": "U+xVOzdppR9akE1wLuDDkSbdG17c+3QfJcngxcL8MsgGRfj82J1CYWU+L/SwA1VsC0pz3GH2cLsZoAX2v7MbBg=="
 }
