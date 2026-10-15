@@ -1,0 +1,4 @@
+{
+  "signed": "{\"version\":\"0.3.1\",\"notes\":\"新增“导出手机版备份”，位于“导入识别结果”旁，包含全部账单和图片，可直接在手机版恢复。\\n启动后及使用期间自动检查更新，发现新版弹窗；可选择稍后提醒或立即更新并重启。\\n更新先校验签名和完整性，保存账单后只替换程序，保留 data。\",\"size\":7067136,\"sha256\":\"1224a89f2473520d9fe277ba710b2828b3c29795cadcb6968afc1f9f69f9a769\",\"urls\":[\"https://gitee.com/sorry123luck/alice-jewelry-updates/releases/download/v0.3.1/ALICE-JEWELRY-0.3.1-windows-x64.exe\",\"https://github.com/sorry123luck/alice-jewelry-updates/releases/download/v0.3.1/ALICE-JEWELRY-0.3.1-windows-x64.exe\"]}",
+  "signature": "U3NC/ksQXXf56NQ48QIxxkdNtTyEfPogkMXIy1bGP8PDrH8ZgijHPf38tWGDlhekm43U35CGCGU1bY4KVTHACw=="
+}
