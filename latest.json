@@ -1,4 +1,4 @@
 {
-  "signed": "{\"version\":\"0.3.2\",\"notes\":\"修复 Windows 任务栏图标显示为系统默认图标的问题，沿用原程序图案。保留手机版备份导出与新版弹窗提醒功能。\",\"size\":7068160,\"sha256\":\"ba7d088c443e583d9be8e0549aa739accd36b1e7fb6e23c9183d1be9e3361f11\",\"urls\":[\"https://gitee.com/sorry123luck/alice-jewelry-updates/releases/download/v0.3.2/ALICE-JEWELRY-0.3.2-windows-x64.exe\",\"https://github.com/sorry123luck/alice-jewelry-updates/releases/download/v0.3.2/ALICE-JEWELRY-0.3.2-windows-x64.exe\"]}",
-  "signature": "U+xVOzdppR9akE1wLuDDkSbdG17c+3QfJcngxcL8MsgGRfj82J1CYWU+L/SwA1VsC0pz3GH2cLsZoAX2v7MbBg=="
+  "signed": "{\"version\":\"0.4.1\",\"notes\":\"新增多主播工作区：ALICE、MX等主播的账单、编号和配置独立，支持随时修改并记住各自主题。\\n账单预览、PDF和图片使用所属主播的最新主题；补充14步内置教程。\\n手机版已同步升级。电脑“导出当前主播手机版备份”携带主播配置、账单和照片，可在 bill.dayun.fun 恢复，兼容旧ALICE备份。\\n修复首次空数据目录初始化、取消操作中断自动保存及主题切换问题。\\n更新前会保存当前账单，只替换程序，保留 data 中的账单和照片。\",\"size\":7076352,\"sha256\":\"23bf3506a5f5c14a6fcc70d6a04fda0f7f04c23591e3026b1f146057430fadeb\",\"urls\":[\"https://gitee.com/sorry123luck/alice-jewelry-updates/releases/download/v0.4.1/ALICE-JEWELRY-0.4.1-windows-x64.exe\",\"https://github.com/sorry123luck/alice-jewelry-updates/releases/download/v0.4.1/ALICE-JEWELRY-0.4.1-windows-x64.exe\"]}",
+  "signature": "OgdV4ZZTznaVMJT8eeOt3IbRmiyppgGHsEppJKM+n1B/c+keSynFmMAmeHeFBKbD5ApIY6O6hmv1fH3XFrZJBw=="
 }
